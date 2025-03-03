@@ -1,0 +1,17 @@
+/scripts
+
+.env*
+
+.envrc
+flake.*
+/.devenv
+/.devenv*
+/.direnv
+/.direnv*
+/.git
+/.gitignore
+
+Makefile
+REAME.md
+
+flake*
